@@ -1,0 +1,16 @@
+*{
+    /* background-color: blueviolet; */
+    background-image:linear-gradient(to left,rgb(140, 140, 200),yellow) ;
+}
+.shopName{
+  font-family: "Honk", system-ui;
+  font-optical-sizing:auto;
+  font-size:40px;
+  font-weight: 400;
+  font-style:italic;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+    letter-spacing: 5px;
+    margin:30px ;
+}
